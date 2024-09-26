@@ -1,5 +1,6 @@
 {
   "name": "sticky-notes-app",
+  "homepage": "https://daniel55966.github.io/sticky-notes-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,7 +17,8 @@
     "gh-pages": "^6.1.1",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "rollup": "^4.22.4"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
